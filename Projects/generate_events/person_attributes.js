@@ -59,13 +59,6 @@ function generateParents(){
     };
 };
 
-// name:(gender, random)
-// education: (parents, location)
-function _statisticGeography(){
-    return 777
-}
-
-
 //  TODO:MEDIUM: Function will determinate a education
 function generateEducation(has_parents, geograph, born_date){
     let education_degree = [`low`,`normal`, `medium`,`high`, `rare`]
@@ -74,7 +67,7 @@ function generateEducation(has_parents, geograph, born_date){
 
 // TODO: HIGH: Function will determinate a income
 function generateIncome(has_parents, geograph, education){
-    return 1010
+    return randomInteger(1500,15700)
 };
 
 // Person Properties
@@ -93,5 +86,4 @@ function generatePersonProperties(){
     return person_props
 }
 
-console.log(generatePersonProperties())
 export {generatePersonProperties};

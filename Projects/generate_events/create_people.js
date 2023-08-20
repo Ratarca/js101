@@ -1,7 +1,8 @@
 import * as PersonProps from './person_attributes.js';
+import person_names from './person_name/names.json' assert {"type":"json"}
 
 
-// Use people + behavior
+// TODO:HIGH: Import node modules, person, data from another folders etc...
 class Person{
     constructor(gender, name, date_born, state_born,flag_parents, education, income){
         this.gender = gender;
@@ -11,12 +12,15 @@ class Person{
         this.flag_parents = flag_parents;
         this.education = education;
         this.income = income;
+    };
+};
+
+
+class EventsGeneratorJson{
+    add(val1, val2){
+        console.log(val1+val2)
     }
 }
-// Writes
 
-for (let i=0; i<=100; i++){
-    let new_person = PersonProps.generatePersonProperties();
-    console.log(i,new_person)
-}
-// gender, date_born, state_born, flag_parents, education, income
+let json_manipulation = new EventsGeneratorJson
+json_manipulation.add(1,2)
