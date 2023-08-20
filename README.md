@@ -1,21 +1,14 @@
-# js101
+# JS101
 
+The notes and exercises about JS.
+
+
+----
+## Theory
 ```
 Learn New Programming language (OOP)
 - Modules
 - Variables, template, Scope
-- Primitive type, Array[basic], Object[basic]
-- Flow Control (Decision/Loop)
-- Collections [Deep]
-- TDD
-
-- OOP
-- Async
-- Extra []
-
-```
-
-
 - Functions
     // declare
     // HOF
@@ -30,31 +23,21 @@ Learn New Programming language (OOP)
     // Simulation named argument with desttructing
     // Hoisting
     // Exceptions (throw, cath , finally) : Custom?
+- Primitive type, Array[basic], Object[basic]
+- Flow Control (Decision/Loop)
+- Collections [Deep]
+- TDD
+- OOP
+- Async
+- Extra []
 
+```
 
 ----
-(node)[https://www.youtube.com/watch?v=JZXQ455OT3A&list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw]
-
-
-> os bashees de inisherin
-
-- Patterns: Factory, Adapter, Strategy, Observer, Builder
-
-> Back : JS + Node and Nest + vitest<br>
-> Fronte : Svelte + svelte kit + sveltevet + skeleton
-
-
-https://github.com/airbnb/javascript
-https://github.com/GitbookIO/javascript/blob/master/functions/higher_order.md
-
------------
-
-# Tin Projects
+## Tiny Projects
 
 - [x] Generate people profiles: Write on JSON/CSV
-- [ ] Crawler Website: Snapshot & NRT
 - [ ] API : CRUD, Auth(JWT)
+- [ ] Crawler Website: Snapshot & NRT
 - [ ] Finance: Redis and Websocket
 - [ ] Blog on svelte
-
-[obsidian](https://www.youtube.com/watch?v=Yzi1o-BH6QQ)
