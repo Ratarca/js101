@@ -38,10 +38,8 @@ The notes and exercises about JS.
     - package and dependencies
     - Namespace
     - Basic Yarn
-- Objects
-    - Basic
-    - Prototype
 - POO
+    - Objects and Prototype
     - Syntax (Constructor and Methods)
     - Inheritance and Polymorphism
 - Async
