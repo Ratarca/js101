@@ -3,8 +3,6 @@ import * as fs from 'fs'
 import path from 'path'
 import person_names from './person_name/names.json' assert {"type":"json"}
 
-
-
 // TODO:HIGH: Import node modules, person, data from another folders etc...
 class Person{
     constructor(gender, name, date_born, state_born,flag_parents, education, income){
@@ -17,7 +15,6 @@ class Person{
         this.income = income
     };
 };
-
 
 function build_people(quantity_person){
     let person_sample = [];
@@ -40,7 +37,6 @@ function get_date(){
     return formattedDate
 }
 
-// Write
 function write_people_json(people_sample, file_name){
     let jsonData = JSON.stringify(people_sample,null, 2);
     const pathFile =  `Projects/generate_events/storage/${get_date()}_${file_name}.json`;
