@@ -1,5 +1,7 @@
 /* 
+let my_array = [];
 
+Methods
 - push
 - pop
 - concat

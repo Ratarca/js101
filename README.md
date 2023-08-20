@@ -20,7 +20,7 @@ The notes and exercises about JS.
     - String
     - Numeric
 - Functions
-    - declare
+    - Declare
     - HOF
     - Literals
     - Arrow

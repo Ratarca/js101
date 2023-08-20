@@ -1,10 +1,15 @@
 // Single Line comment
 
-/*Multi line comment */
+/*Multi line comment
+ Some time is useful
+
+*/
 
 let intro = "Hello World"
 let my_name = "Ratarca"
 let full_message = `${intro} ${my_name}`
+
+let brazil_age = 600
 
 let ratarca = {
     name:"rafael targino",
