@@ -17,6 +17,7 @@ function generateGender(){
     return fmt_gender
 };
 
+//  TODO:HIGH: Function will determinate a name
 function generateName(){
     return 777
 };
@@ -59,7 +60,7 @@ function generateParents(){
     };
 };
 
-//  TODO:MEDIUM: Function will determinate a education
+//  TODO:HIGH: Function will determinate a education
 function generateEducation(has_parents, geograph, born_date){
     let education_degree = [`low`,`normal`, `medium`,`high`, `rare`]
     return education_degree[ randomInteger(0,(education_degree.length-1)) ]

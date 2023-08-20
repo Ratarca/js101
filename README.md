@@ -46,3 +46,15 @@ Learn New Programming language (OOP)
 
 https://github.com/airbnb/javascript
 https://github.com/GitbookIO/javascript/blob/master/functions/higher_order.md
+
+-----------
+
+# Tin Projects
+
+- [x] Generate people profiles: Write on JSON/CSV
+- [ ] Crawler Website: Snapshot & NRT
+- [ ] API : CRUD, Auth(JWT)
+- [ ] Finance: Redis and Websocket
+- [ ] Blog on svelte
+
+[obsidian](https://www.youtube.com/watch?v=Yzi1o-BH6QQ)
