@@ -1,8 +1,8 @@
 // Single Line comment
 
-/*Multi line comment
- Some time is useful
-
+/*
+Multi line comment
+Some time is useful
 */
 
 let intro = "Hello World"
