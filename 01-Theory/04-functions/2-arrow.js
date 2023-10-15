@@ -7,3 +7,4 @@ console.log( logger_v2('ratarca') )
 
 // replit.com
 //this, call , apply , bind
+// https://www.youtube.com/watch?v=02236Epdh2Y
