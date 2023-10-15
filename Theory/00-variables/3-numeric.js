@@ -10,3 +10,9 @@
     - 8: Math.random()
     - 9: Math.pow()
 */
+
+
+let numericText = "777"
+let dizima = (321/999)
+
+console.log(dizima)
