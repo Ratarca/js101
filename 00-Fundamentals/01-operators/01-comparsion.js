@@ -1,9 +1,9 @@
 /*
-Theory
-> , >=
-< , <=
-==, ===
-!=
+Theory: Comparsion operators
+Greater:      > , >=
+Less:         < , <=
+Equal:        ==, ===
+Different:    !=
 
 */
 
