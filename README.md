@@ -9,7 +9,7 @@ The notes and exercises about JS.
 ```
 - Comments, Variables, basic types
 - Operators
-    - Math
+    - Math 
     - Logic
 - Logic Structs
     - Decision
