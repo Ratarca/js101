@@ -55,6 +55,12 @@ The notes and exercises about JS.
 ```
 
 ----
+## Event Loop
+
+[Awesome Article](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
+[Awesome Video](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+
+----
 ## Tiny Projects
 
 - [x] Generate people profiles: Write on JSON/CSV
@@ -62,3 +68,10 @@ The notes and exercises about JS.
 - [ ] Crawler Website: Snapshot & NRT
 - [ ] Finance: Redis and Websocket
 - [ ] Blog on svelte
+
+## Related Repositories
+
+- [] JS101
+- [] TS101
+- [] Node101
+- [] CSS101

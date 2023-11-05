@@ -13,4 +13,4 @@ function sayHello() {
     console.log("Hello, world!");
 }
 
-// Variables : When use (var) that 
+// Variables : When use (var) that
