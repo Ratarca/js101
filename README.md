@@ -6,53 +6,32 @@ The notes and exercises about JS.
 ----
 ## Theory
 
-```
-- Comments, Variables, basic types
-- Operators
-    - Math 
-    - Logic
-- Logic Structs
-    - Decision
-    - Loop
-- Deep on Types (Array, Datetime, String, Numeric)
-    - Array
-    - Datetime
-    - String
-    - Numeric
-- Functions
-    - Declare
-    - HOF
-    - Literals
-    - Arrow
-    - Closures
-    - Hard objects
-    - Strict Mode
-    - Testing Arguments
-    - Default
-    - Rest and spread
-    - Simulation named argument with desttructing
-    - Hoisting
-    - Exceptions (throw, cath , finally) : Custom?
-- Modules
-    - Import and Export
-    - package and dependencies
-    - Namespace
-    - Basic Yarn
-- POO
-    - Objects and Prototype
-    - Syntax (Constructor and Methods)
-    - Inheritance and Polymorphism
-- Async
-    - Promises
-    - Async/Await
-- TDD
-    - Jest
-    - Vitest
-- POO techniques
-    - Dependency Injection
-    - Dependency Inversion
+| Chapter | Topic        | Subtopic                   | Status | Link |
+| ------- | ------------ | -------------------------- | ------ | ---- |
+| 0       | Variables    | Declaration                |        |      |
+| 0       | Variables    | Number                     |        |      |
+| 0       | Variables    | String                     |        |      |
+| 0       | Variables    | Null and undefined         |        |      |
+| 1       | Operators    | Math                       |        |      |
+| 1       | Operators    | Comparsion                 |        |      |
+| 1       | Operators    | Logical                    |        |      |
+| 1       | Operators    | Ternary                    |        |      |
+| 2       | Control Flow | Decision:Basic             |        |      |
+| 2       | Control Flow | Decision:if..else if..else |        |      |
+| 2       | Control Flow | Decision: switch           |        |      |
+| 2       | Control Flow | Loop: What is?             |        |      |
+| 2       | Control Flow | Loop: For                  |        |      |
+| 2       | Control Flow | Loop: For..in              |        |      |
+| 2       | Control Flow | Loop: For..of              |        |      |
+| 2       | Control Flow | Loop: do..while            |        |      |
+| 2       | Control Flow | Loop: foreach              |        |      |
+| 2       | Control Flow | Loop: overview             |        |      |
+| 3       | Collection   | Array                      |        |      |
+| 3       | Collection   | Object                     |        |      |
+| 3       | Collection   | Map                        |        |      |
+| 3       | Collection   | Set                        |        |      |
 
-```
+
 
 ----
 ## Event Loop
@@ -71,7 +50,7 @@ The notes and exercises about JS.
 
 ## Related Repositories
 
-- [] JS101
-- [] TS101
-- [] Node101
-- [] CSS101
+- [ ] JS101
+- [ ] TS101
+- [ ] Node101
+- [ ] CSS101
