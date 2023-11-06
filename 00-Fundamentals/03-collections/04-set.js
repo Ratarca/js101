@@ -22,5 +22,5 @@ let sizeSet = fruits.size
 
 console.log(hasBanana, sizeSet)
 
-// Slice : convert to slice and 
+// Slice : convert to slice and slice
 
