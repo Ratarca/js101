@@ -10,3 +10,5 @@
     - every
     - indexOf
 */
+
+// todo:high:collections-array
